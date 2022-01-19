@@ -1,0 +1,21 @@
+h1, a {
+background-color: blue;
+color: white;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+h2 {
+    background-color: chocolate;
+}
+
+li {
+    text-align: end;
+}
